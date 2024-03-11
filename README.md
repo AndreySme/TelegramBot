@@ -1,6 +1,6 @@
-# Telegram-Bot
-Telegram Bot tests your knowledge of Python.
+# Telegram bot
+Telegram bot tests your knowledge of Python.
 
 Commands for bot:
-* /start - Welcome you by bot 
+* /start - Greeting you
 * /quiz - Start quiz
